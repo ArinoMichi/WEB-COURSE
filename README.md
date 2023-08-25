@@ -1,9 +1,9 @@
 # UDEMY WEB-COURSE!
-**Web Development Bootcamp proyects** 👾
+**Web Development Bootcamp projects** 👾
 
 
-## CSS PROYECTS SHOWCASE
-* ### Web Design proyect (responsive)
+## CSS PROJECTS SHOWCASE
+* ### Web Design project (responsive)
 
 ![Web Design Agency Project](IMAGES/WEB_DESIGN.png)
 
