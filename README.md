@@ -2,8 +2,8 @@
 **Web Development Bootcamp proyects** 👾
 
 
-## CSS PROJECTS SHOWCASE
-* ### Web Design project (responsive)
+## CSS PROYECTS SHOWCASE
+* ### Web Design proyect (responsive)
 
 ![Web Design Agency Project](IMAGES/WEB_DESIGN.png)
 
