@@ -11,3 +11,6 @@
 
 * ### Flexbox Pricing Table (responsive)
 ![Web Design Agency Project](IMAGES/FLEXBOX_PRICING_TABLE(1).png)
+
+* ### Mondrian Painting (display-grid practice)
+  ![Web Design Agency Project](IMAGES/MONDRIAN_PAINTING.png)
